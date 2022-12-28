@@ -246,7 +246,7 @@
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 784.0,
-            "y" : 544.0
+            "y" : 552.0
           },
           "properties" : {
             "fail" : "${result:startsWith('fail')}",
@@ -303,7 +303,7 @@
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : -48.0,
-            "y" : 440.0
+            "y" : 408.0
           },
           "properties" : {
             "Create Missing Directories" : "true",
@@ -390,7 +390,7 @@
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : -48.0,
-            "y" : 592.0
+            "y" : 552.0
           },
           "properties" : {
             "Create Missing Directories" : "true",
@@ -560,16 +560,16 @@
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : -48.0,
-            "y" : 288.0
+            "y" : 272.0
           },
           "properties" : {
             "argumentsStrategy" : "Command Arguments Property",
             "Max Attribute Length" : "256",
-            "Command Path" : "python",
-            "Working Directory" : "/Users/kenechukwunnodu/Desktop/DataEngineering/CodesWithData/Chapter07/great_expectations/uncommitted",
+            "Command Path" : "python3",
+            "Working Directory" : "/Users/kenechukwunnodu/Desktop/DataEngineering/CodesWithData/Chapter07",
             "Argument Delimiter" : ";",
             "Ignore STDIN" : "false",
-            "Command Arguments" : "run_peoples_pass_data_checkpoint.py"
+            "Command Arguments" : "peoplevalidatescript.py"
           },
           "propertyDescriptors" : {
             "argumentsStrategy" : {
@@ -651,7 +651,7 @@
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 784.0,
-            "y" : 288.0
+            "y" : 272.0
           },
           "properties" : {
             "result" : "$.result",
