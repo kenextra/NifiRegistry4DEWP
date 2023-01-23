@@ -1,7 +1,4 @@
 flows:
-  2d4efd73-f0b6-4bd4-9eb7-51a7c47d2f13: {ver: 1, file: ReadDataLake.snapshot, comments: Flow
-      name updated, author: anonymous, created: 1673673584033, flowName: ReadDataLake,
-    flowDesc: Read and process json files from datalake folder}
   7b3e5930-b4a7-4f09-b328-16ca0984cd71: {ver: 1, file: First.snapshot, comments: first
       version, author: anonymous, created: 1673673395283, flowName: First, flowDesc: Read
       and process json files from datalake folder}
