@@ -1,6 +1,0 @@
-flows:
-  7b3e5930-b4a7-4f09-b328-16ca0984cd71: {ver: 1, file: First.snapshot, comments: first
-      version, author: anonymous, created: 1673673395283, flowName: First, flowDesc: Read
-      and process json files from datalake folder}
-layoutVer: 1
-bucketId: a4f157b5-51fd-4957-9297-b4909041e86e
